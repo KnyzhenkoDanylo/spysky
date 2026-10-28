@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Мої улюблені фрукти</title>
+</head>
+<body>
 <h2>Мої улюблені фрукти</h2>
 <ul>
   <li>Яблуко</li>
@@ -7,3 +14,5 @@
 <li>Груша</li>
 <p><a href="index.html">← На головну</a></p>
 </ul>
+</body>
+</html>
